@@ -16,4 +16,4 @@
 **Thoughts** Being someone who is OCD and very detail oriented, clean code will be very easy for me. Also started on arrays and loops in JS. Very different than C++ in my opinion
 
 **Link(s) to work**
-1. [Loops](https://github.com/jasminepvo/fundamentals-pt4/loops.js)
+1. [Loops](https://github.com/jasminepvo/fundamentals-jsbasics/blob/main/fundamentals-pt4/loops.html)
