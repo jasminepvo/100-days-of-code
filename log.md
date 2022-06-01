@@ -13,7 +13,7 @@
 
 **Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed JavaScript Basics - Lesson 8: Clean Code, Lesson 9: Installing Node.js. Began Lesson 10: Fundamentals Pt. 4(Arrays)
 
-**Thoughts** Being someone who is OCD and very detail oriented, clean code will be very easy for me. This reminds of my first CS course I ever took where my professor graded the first program extremely hard on indentation, capitalization, syntax etc. and most of the class failed but I got a 100! Also started on arrays and loops in JS. Arrays are easy but loops are different than C++ in my opinion
+**Thoughts** Being someone who is OCD and very detail oriented, clean code will be very easy for me. This reminds me of my first CS course I ever took where my professor graded the first program extremely hard on indentation, capitalization, syntax etc. and most of the class failed but I got a 100! Also started on arrays and loops in JS. Arrays are easy but loops are different than C++ in my opinion
 
 **Link(s) to work**
 1. [Loops](https://github.com/jasminepvo/fundamentals-jsbasics/blob/main/fundamentals-pt4/loops.html)
