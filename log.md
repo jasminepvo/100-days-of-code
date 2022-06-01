@@ -11,7 +11,7 @@
 
 ### Day 2: May 30, Monday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed Lesson 8: Clean Code, Lesson 9: Installing Node.js. Began Lesson 10: Fundamentals Pt. 4(Arrays)
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed JavaScript Basics - Lesson 8: Clean Code, Lesson 9: Installing Node.js. Began Lesson 10: Fundamentals Pt. 4(Arrays)
 
 **Thoughts** Being someone who is OCD and very detail oriented, clean code will be very easy for me. This reminds of my first CS course I ever took where my professor graded the first program extremely hard on indentation, capitalization, syntax etc. and most of the class failed but I got a 100! Also started on arrays and loops in JS. Arrays are easy but loops are different than C++ in my opinion
 
@@ -20,7 +20,7 @@
 
 ### Day 3: May 31, Tuesday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completing Lesson 10: Fundamentals Pt. 4(Loops, Test Driven Development, Practice Problem: helloWorld, repeatString, reverseString, removeFromArray).
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completing JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Loops, Test Driven Development, Practice Problem: helloWorld, repeatString, reverseString, removeFromArray).
 
 **Thoughts** Good refresher of for and while loops. I was able to easily code the practice problems on paper and match up to the solution. Thoughts on individual exercises: 
 helloWorld - simple test
@@ -37,7 +37,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 ### Day 4: June 1, Wednesday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 83%. Completed Lesson 10: Fundamentals Pt. 4(Practice Problems: sumAll, leapYears, tempConversion). Began Lesson 11: DOM Manipulation and Events
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 85%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Practice Problems: sumAll, leapYears, tempConversion). Began Lesson 11: DOM Manipulation and Events
 
 **Thoughts** 
 
@@ -47,7 +47,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 ### Day 5: June 2, Thursday
 
-**Today's Progress**: I am completing [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 85%. Completed Lesson  Began Lesson
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completed JavaScript Basics - Lesson 11: Revisitng Rock Paper Scissors 
 
 **Thoughts** 
 
@@ -56,7 +56,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 ### Day 6: June 3, Friday
 
-**Today's Progress**: I am completing [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed Lesson  Began Lesson
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 89%. Completed JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
 **Thoughts**
 
@@ -65,7 +65,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 ### Day 7: June 4, Saturday
 
-**Today's Progress**: I am completing [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed Lesson  Began Lesson
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 91%. Completed JavaScript Basics - Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest) 
 
 **Thoughts** 
 
@@ -75,7 +75,323 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 ### Day 8: June 5, Sunday
 
-**Today's Progress**: I am completing [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed Lesson  Began Lesson 
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 93%. Completed JavaScript Basics - Lesson 14: Calculator Project
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 9: June 6, Monday
+
+**Today's Progress**: DONE! [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 100%. Completed The Back End - Lesson 1: Introduction to the Back End, Lesson 2: Introduction to Frameworks, Conclusion - Lesson 1: Choose Your Path Forward
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 10: June 7, Tuesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate HTML Concepts - Lesson 1: Introduction, Lesson 2: Emmet, Lesson 3: Form Basics, Lesson 4: Form Validation, Lesson 5: SVG, Lesson 6: Tables
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+
+### Day 11: June 8, Wednesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate CSS Concepts - Lesson 1: Default Styles, Lesson 2: CSS Units, Lesson 3: More Text Styles, Lesson 4: More CSS Properties, Lesson 5: Advanced Selectors, Lesson 6: Positioning, Lesson 7: CSS Functions, Lesson 8: Custom Properties, Lesson 9: Browser Compatibility, Lesson 10: Frameworks and Preprocessors, Lesson 11: Sign-up Form PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 12: June 9, Thursday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Grid - Lesson 1: Introduction to Grid, Lesson 2: Creating a Gris, Lesson 3: Positioning Grid Elements, Lesson 4: Advanced Grid Properties, Lesson 5: Using Flexbox and Grid, Lesson 6: Admin Dashboard PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 13: June 10, Friday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Grid - Lesson 6: Admin Dashboard PROJECT
+
+**Thoughts**
+
+**Link(s) to work**
+1. [](url)
+
+### Day 14: June 11, Saturday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Introduction - Lesson 1: How this course will work, Lesson 2: A quick review; Org anizing your JavaScript Code - Lesson 1: Organizing your JavaScript Code Introduction, Lesson 2: Objects and Object Constructors, Lesson 3: Library PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 15: June 12, Sunday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Organizing your JavaScript Code - Lesson 4: Factory Functions and the Module Pattern, Lesson 5: Tic Tac Toe PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 16: June 13, Monday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Organizing your JavaScript Code - Lesson 6: Classes, Lesson 7: ES6 Modules, Lessson 8: Webpack, Lesson 9: Restaurant Page PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 17: June 14, Tuesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Organizing your JavaScript Code - Lesson 10: OOP Principles, Lesson 11: Todo List PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 18: June 15, Wednesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed JavaScript in the Real World - Lesson 1: Linting, Lesson 2: Dynamic User Interface Interactions, Lesson 3: Form Validation with JavaScript PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 19: June 16, Thursday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Asynchronous JavaScript and APIs - Lesson 1: JSON, Lesson 2: Asynchronous Code, Lesson 3: Working with APIs, Lesson 4: Async and Await, Lesson 5: Weather App PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 20: June 17, Friday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Testing JavaScript - Lesson 1: Testing Basics, Lesson 2: Testing Practice PROJECT, Lesson 3: More Testing, Lesson 4: Battleship PROJECT
+
+**Thoughts**
+
+**Link(s) to work**
+1. [](url)
+
+### Day 21: June 18, Saturday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Intermediate Git - Lesson 1: A Deeper Look at Git, Lesson 2: Using Git in the Real World; React JS - Lesson 1: React Introduction, Lesson 2: State and Props, Lesson 3: Handle Inputs and Render Lists, Lesson 4: CV Application PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+
+### Day 22: June 19, Sunday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed React JS - Lesson 5: Lifecycle Methods, Lesson 6: Hooks, Lesson 7: Memory Card PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+
+### Day 23: June 20, Monday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed React JS - Lesson 8: Router, Lesson 9: React Testing Part 1, Lesson 10: React Testing Part 2
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 24: June 21, Tuesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed React JS - Lesson 11: Shopping Cart PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 25: June 22, Wednesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed React JS - Lesson 12: Advanced Concepts; JavaScript and the Backend - Lesson 1: Using BaaS For Your Back End, Lesson 2: Where's Waldo (A Photo Tagging App) PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 26: June 23, Thursday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) at %. Completed Finishing Up with JavaScript - Lesson 1: JavaScript Final Project PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 27: June 24, Friday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) at %. Completed Animation - Lesson 1: Transforms, Lesson 2: Transitions, Lesson 3: Keyframes; Accessibility - Lesson 1: Introduction to Web Accessibility, Lesson 2: The Web Content Accessibility Guidelines(WCAG), Lesson 3: Semantic HTML, Lesson 4: Accessible Colors, Lesson 5: Keyboard Navigation, Lesson 6: Meaningful Text, Lesson 7: WAI-ARIA, Lesson 8: Accessibility Auditing
+
+**Thoughts**
+
+**Link(s) to work**
+1. [](url)
+
+### Day 28: June 25, Saturday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) at %. Completed Responsive Design - Lesson 1: Introduction to Responsive Design, Lesson 2: Natural Responsiveness, Lesson 3: Responsive Images, Lesson 4: Media Queries, Lesson 5: Personal Portfolio PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+###### Will be on vacation 26-30 so progress will be limited to 1 hr/day
+
+### Day 29: June 26, Sunday 
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 1: Introduction: What is NodeJS
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 30: June 27, Monday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 2: Getting Started
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 31: June 28, Tuesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 2: Getting Started
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 32: June 29, Wednesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 2: Getting Started
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 33: June 30, Thursday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 3: Debugging Node
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+##### Back from vacation - will resume to 5hrs/day
+
+### Day 34: July 1, Friday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Introduction to NodeJS - Lesson 4: Basic Informational Site
+**Thoughts**
+
+**Link(s) to work**
+1. [](url)
+
+### Day 35: July 2, Saturday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed MongoDB - Lesson 1: Introduction to MongoDB
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [MongoDB Basics Course](https://university.mongodb.com/courses/M001/about)
+
+### Day 29: June 26, Sunday 
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 1: Introduction to Express, Lesson 2: Express 101, Lesson 3: Express 102: CRUD and MVC
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 30: June 27, Monday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 4: Preparing for Deployment, Lesson 5: Mini Message Board PROJECT
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 31: June 28, Tuesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 6: Express 103: Routes and Controllers, Lesson 7: Express 104: View Templates, Lesson 8: Express 105: Forms and Deployment PROJECT
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 32: June 29, Wednesday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 9: Inventory Application PROJECT
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 33: June 30, Thursday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Authentification - Lesson 1: Authentification Basics, Lesson 2: Security Configuration, Lesson 3: Members Only PROJECT 
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 34: July 1, Friday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed APIS - Lesson 1: API basics, Lesson 2: API Security, Lesson 3: Blog API PROJECT
+
+**Thoughts**
+
+**Link(s) to work**
+1. [](url)
+
+### Day 35: July 2, Saturday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Testing Express - Lesson 1: Testing Routes and Controllers, Lesson 2: Testing database operations
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [](url)
+
+### Day 36: July 3, Sunday
+
+**Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Final Project - Lesson 1: Odin Book PROJECT, Lesson 2: Conclusion
 
 **Thoughts** 
 
