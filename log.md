@@ -329,7 +329,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [MongoDB Basics Course](https://university.mongodb.com/courses/M001/about)
 
-### Day 29: June 26, Sunday 
+### Day 36: July 3, Sunday 
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 1: Introduction to Express, Lesson 2: Express 101, Lesson 3: Express 102: CRUD and MVC
 
@@ -338,7 +338,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 30: June 27, Monday
+### Day 37: July 4, Monday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 4: Preparing for Deployment, Lesson 5: Mini Message Board PROJECT
 **Thoughts** 
@@ -346,7 +346,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 31: June 28, Tuesday
+### Day 38: July 5, Tuesday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 6: Express 103: Routes and Controllers, Lesson 7: Express 104: View Templates, Lesson 8: Express 105: Forms and Deployment PROJECT
 **Thoughts** 
@@ -354,7 +354,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 32: June 29, Wednesday
+### Day 39: July 6, Wednesday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 9: Inventory Application PROJECT
 
@@ -363,7 +363,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 33: June 30, Thursday
+### Day 40: July 7, Thursday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Authentification - Lesson 1: Authentification Basics, Lesson 2: Security Configuration, Lesson 3: Members Only PROJECT 
 **Thoughts** 
@@ -371,7 +371,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 34: July 1, Friday
+### Day 41: July 8, Friday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed APIS - Lesson 1: API basics, Lesson 2: API Security, Lesson 3: Blog API PROJECT
 
@@ -380,7 +380,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 35: July 2, Saturday
+### Day 42: July 9, Saturday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Testing Express - Lesson 1: Testing Routes and Controllers, Lesson 2: Testing database operations
 
@@ -389,7 +389,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 **Link(s) to work**
 1. [](url)
 
-### Day 36: July 3, Sunday
+### Day 43: July 10, Sunday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Final Project - Lesson 1: Odin Book PROJECT, Lesson 2: Conclusion
 
