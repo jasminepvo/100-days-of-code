@@ -20,7 +20,7 @@
 
 ### Day 3: May 31, Tuesday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completing JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Loops, Test Driven Development, Practice Problem: helloWorld, repeatString, reverseString, removeFromArray).
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Loops, Test Driven Development, Practice Problem: helloWorld, repeatString, reverseString, removeFromArray).
 
 **Thoughts** Good refresher of for and while loops. I was able to easily code the practice problems on paper and match up to the solution. Thoughts on individual exercises: 
 helloWorld - simple test
@@ -32,18 +32,23 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 1. [Loops: while and for](https://javascript.info/while-for)
 2. [JavaScript Basics Practice Problems](https://github.com/jasminepvo/javascript-exercises)
 
-
-
-
 ### Day 4: June 1, Wednesday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 85%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Practice Problems: sumAll, leapYears, tempConversion). Began Lesson 11: DOM Manipulation and Events
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 85%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Practice Problems: sumAll, leapYears, tempConversion), Lesson 11: DOM Manipulation and Events
 
-**Thoughts** 
+**Thoughts** Love the idea behind this lesson with test driven development. I have always tested as I code because it just makes sense to make sure it works before moving on instead of testing at the end and spending way more time to debug. 
+
+sumAll - love coding out on paper first to work through the iteration and drawing diagrams
+leapYears - forgot what leap year was until now (divisible by 4 and not 100), used if statement with &&
+tempConversion - converting farenheit to celcius and vice versa. I remember writing this in C++. Just need the correct formula and be careful with parenthesis. Also use math.round() * 10 / 10 to include 1 decimal point
+
+[JavaScript Drum Kit in Vanilla JS Tutorial](https://www.youtube.com/watch?v=VuN8qwZoego) - learned about key events, playing audio and listening for the transition end events in animations
 
 **Link(s) to work**
 1. [JavaScript Basics Practice Problems](https://github.com/jasminepvo/javascript-exercises)
-2. [JavaScript Drum Kit in Vanilla JS!]
+2. [JavaScript Drum Kit in Vanilla JS](https://github.com/jasminepvo/JavaScript30/commit/8b1d5d4f25f4261063066637097a17771182d457)
+
+
 
 ### Day 5: June 2, Thursday
 
@@ -341,6 +346,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 ### Day 37: July 4, Monday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 4: Preparing for Deployment, Lesson 5: Mini Message Board PROJECT
+
 **Thoughts** 
 
 **Link(s) to work**
@@ -349,6 +355,7 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 ### Day 38: July 5, Tuesday
 
 **Today's Progress**: [The Odin Project Full Stack JavaScript - NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) at %. Completed Express and Mongoose - Lesson 6: Express 103: Routes and Controllers, Lesson 7: Express 104: View Templates, Lesson 8: Express 105: Forms and Deployment PROJECT
+
 **Thoughts** 
 
 **Link(s) to work**
