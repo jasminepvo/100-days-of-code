@@ -22,11 +22,11 @@
 
 **Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 81%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Loops, Test Driven Development, Practice Problem: helloWorld, repeatString, reverseString, removeFromArray).
 
-**Thoughts** Good refresher of for and while loops. I was able to easily code the practice problems on paper and match up to the solution. Thoughts on individual exercises: 
-helloWorld - simple test
-repeatString - pretty simple for loop
-reverseString - although there are other methods, it's cool JavaScript has built in methods to split, reverse and join that make the solution simple. Otherwise would have to use a decrementing for loop or recursion
-removeFromArray - learned how rest parameters syntax allows a function to accept an indefinite number of arguments as an array and then used the filter method to iterate through the array and pass values that return true into a new, filtered array
+**Thoughts** Good refresher of for and while loops. I was able to easily code the practice problems on paper and match up to the solution. Thoughts on individual exercises:  
+helloWorld - simple test  
+repeatString - pretty simple for loop  
+reverseString - although there are other methods, it's cool JavaScript has built in methods to split, reverse and join that make the solution simple. Otherwise would have to use a decrementing for loop or recursion  
+removeFromArray - learned how rest parameters syntax allows a function to accept an indefinite number of arguments as an array and then used the filter method to iterate through the array and pass values that return true into a new, filtered array  
 
 **Link(s) to work**
 1. [Loops: while and for](https://javascript.info/while-for)
@@ -36,11 +36,11 @@ removeFromArray - learned how rest parameters syntax allows a function to accept
 
 **Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 85%. Completed JavaScript Basics - Lesson 10: Fundamentals Pt. 4(Practice Problems: sumAll, leapYears, tempConversion), Lesson 11: DOM Manipulation and Events
 
-**Thoughts** Love the idea behind this lesson with test driven development. I have always tested as I code because it just makes sense to make sure it works before moving on instead of testing at the end and spending way more time to debug. 
+**Thoughts** Love the idea behind this lesson with test driven development. I have always tested as I code because it just makes sense to make sure it works before moving on instead of testing at the end and spending way more time to debug.  
 
-sumAll - love coding out on paper first to work through the iteration and drawing diagrams
-leapYears - forgot what leap year was until now (divisible by 4 and not 100), used if statement with &&
-tempConversion - converting farenheit to celcius and vice versa. I remember writing this in C++. Just need the correct formula and be careful with parenthesis. Also use math.round() * 10 / 10 to include 1 decimal point
+sumAll - love coding out on paper first to work through the iteration and drawing diagrams  
+leapYears - forgot what leap year was until now (divisible by 4 and not 100), used if statement with &&  
+tempConversion - converting farenheit to celcius and vice versa. I remember writing this in C++. Just need the correct formula and be careful with parenthesis. Also use math.round() * 10 / 10 to include 1 decimal point. 
 
 [JavaScript Drum Kit in Vanilla JS Tutorial](https://www.youtube.com/watch?v=VuN8qwZoego) - learned about key events, playing audio and listening for the transition end events in animations
 
