@@ -48,16 +48,20 @@ tempConversion - converting farenheit to celcius and vice versa. I remember writ
 1. [JavaScript Basics Practice Problems](https://github.com/jasminepvo/javascript-exercises)
 2. [JavaScript Drum Kit in Vanilla JS](https://github.com/jasminepvo/JavaScript30/commit/8b1d5d4f25f4261063066637097a17771182d457)
 
-
-
 ### Day 5: June 2, Thursday
 
 **Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completed JavaScript Basics - Lesson 11: Revisitng Rock Paper Scissors 
 
-**Thoughts** 
+**Thoughts** It was cool to take my game played in console only and add simple UI to it. Also learned how to branch in Git to work on the new feature without breaking my original code and then merge back! Wanted to make correction to the html and when I tried to push my code, I ran into this: 
+`Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.`
+
+I solved this by using git pull -> git add to update the current branch, git commit - " ", git push origin main
 
 **Link(s) to work**
-1. [](url)
+1. [Rock Paper Scissors](https://github.com/jasminepvo/rock-paper-scissors/blob/main/script.js)
 
 ### Day 6: June 3, Friday
 
