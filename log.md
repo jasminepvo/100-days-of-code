@@ -53,12 +53,10 @@ tempConversion - converting farenheit to celcius and vice versa. I remember writ
 **Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completed JavaScript Basics - Lesson 11: Revisitng Rock Paper Scissors 
 
 **Thoughts** It was cool to take my game played in console only and add simple UI to it. Also learned how to branch in Git to work on the new feature without breaking my original code and then merge back! Wanted to make correction to the html and when I tried to push my code, I ran into this: 
-`Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.`
+  
+`hint: Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.`
 
-I solved this by using git pull -> git add to update the current branch, git commit - " ", git push origin main
+Love the hints, pretty straightforward fix just listening to the hints. I solved this by using git pull -> git add to update the current branch, git commit -m " ", git push origin main
 
 **Link(s) to work**
 1. [Rock Paper Scissors](https://github.com/jasminepvo/rock-paper-scissors/blob/main/script.js)
