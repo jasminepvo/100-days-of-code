@@ -1,8 +1,10 @@
-# I've joined the #100DaysOfCode Challenge
+# Hi! I've joined the #100DaysOfCode Challenge
+I am beyond excited so feel free to join me! I will be completing the full stack web development curriculm created by [The Odin Project](www.theodinproject.com). Estimated completion date: July 11, 2022 👩🏻‍💻 
 
-## Log - [click here to see my progress, thoughts and work](log.md)
 
-### Follow my Journey on [Twitter](https://twitter.com/jasminepvodev)
+## Coding Diary - [click here to see my progress, thoughts and links to my work](log.md)
+
+### Otherwise, follow my journey on [Twitter](https://twitter.com/jasminepvodev)!
 
 ### Contents
 * [Rules](rules.md)
