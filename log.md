@@ -62,7 +62,7 @@ This image was helpful too:   ![image](https://user-images.githubusercontent.com
 
 
 **Link(s) to work**
-1. [Rock Paper Scissors](https://github.com/jasminepvo/rock-paper-scissors/blob/main/script.js)
+1. [Rock Paper Scissors - Play Here!](https://jasminepvo.github.io/rock-paper-scissors/)
 
 ### Day 6: June 3, Friday
 
