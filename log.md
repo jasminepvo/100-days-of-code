@@ -50,34 +50,36 @@ tempConversion - converting farenheit to celcius and vice versa. I remember writ
 
 ### Day 5: June 2, Thursday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completed JavaScript Basics - Lesson 11: Revisitng Rock Paper Scissors 
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completing JavaScript Basics - Lesson 11: Revisiting Rock Paper Scissors 
 
-**Thoughts** It was cool to take my game played in console only and add simple UI to it. Also learned how to branch in Git to work on the new feature without breaking my original code and then merge back! Wanted to make correction to the html and when I tried to push my code, I ran into this: 
-  
-`hint: Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.`
-
-Love the hints, pretty straightforward fix just listening to the hints. I solved this by using git pull -> git add to update the current branch, git commit -m " ", git push origin main
-
-This image was helpful too:   ![image](https://user-images.githubusercontent.com/99847030/172021752-acbd1f4d-53c2-410e-8fd3-f0f4a1d427de.png)
-
+**Thoughts** It was cool to take my game played in console only and add simple UI to it. Also learned how to branch in Git to work on the new feature without breaking my original code and then merge back! 
 
 **Link(s) to work**
 1. [Rock Paper Scissors - Play Here!](https://jasminepvo.github.io/rock-paper-scissors/)
 
 ### Day 6: June 3, Friday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 89%. Completed JavaScript Basics - Lesson 12: Etch-A-Sketch Project
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completed JavaScript Basics - Lesson 11: Revisiting Rock Paper Scissors. Started JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
-**Thoughts**
+**Thoughts** Found typos in my hml file so I madde corrections and when I tried to push my code, I ran into this: 
+  
+`hint: Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.`
 
+Love the hints, pretty straightforward fix just listening to the hints. I solved this by using git pull -> git add to update the current branch, git commit -m " ", git push origin main
+
+This image was helpful too:     ![image](https://user-images.githubusercontent.com/99847030/172021752-acbd1f4d-53c2-410e-8fd3-f0f4a1d427de.png)
+
+Happy with my project and wanted to update it to my portfolio website 😊
+  
 **Link(s) to work**
-1. [](url)
+1. [Rock Paper Scissors - Play Here!](https://jasminepvo.github.io/rock-paper-scissors/)
+2. [Porfolio](https://jasminepvo.dev)
 
 ### Day 7: June 4, Saturday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 91%. Completed JavaScript Basics - Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest) 
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 91%. Completed JavaScript Basics - Lesson 12: Etch-A-Sketch Project, Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest) 
 
-**Thoughts** 
+**Thoughts** Took a look at live previews of the Etch-A-Sketch since I was confused on what it was. At first glance, it looks extremely intimidating.
 
 **Link(s) to work**
 1. [](url)
