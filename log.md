@@ -58,6 +58,9 @@ tempConversion - converting farenheit to celcius and vice versa. I remember writ
 
 Love the hints, pretty straightforward fix just listening to the hints. I solved this by using git pull -> git add to update the current branch, git commit -m " ", git push origin main
 
+This image was helpful too: ![image](https://user-images.githubusercontent.com/99847030/172021752-acbd1f4d-53c2-410e-8fd3-f0f4a1d427de.png)
+
+
 **Link(s) to work**
 1. [Rock Paper Scissors](https://github.com/jasminepvo/rock-paper-scissors/blob/main/script.js)
 
