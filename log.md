@@ -77,59 +77,78 @@ Happy with my project and wanted to update it to my portfolio website 😊
 
 ### Day 7: June 4, Saturday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 91%. Completed JavaScript Basics - Lesson 12: Etch-A-Sketch Project, Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest) 
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completing JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
 **Thoughts** Took a look at live previews of the Etch-A-Sketch since I was confused on what it was. At first glance, it looks extremely intimidating.
 
 **Link(s) to work**
-1. [](url)
+1. [Github](https://github.com/jasminepvo/etch-a-sketch)
 
 
 ### Day 8: June 5, Sunday
 
-**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 93%. Completed JavaScript Basics - Lesson 14: Calculator Project
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completing JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
-**Thoughts** 
+**Thoughts** Finished the design with HTML / CSS to mimic the real life one playing around with flex, margin, padding.
 
 **Link(s) to work**
-1. [](url)
+1. [Github](https://github.com/jasminepvo/etch-a-sketch)
 
 ### Day 9: June 6, Monday
 
-**Today's Progress**: DONE! [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 100%. Completed The Back End - Lesson 1: Introduction to the Back End, Lesson 2: Introduction to Frameworks, Conclusion - Lesson 1: Choose Your Path Forward
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completing JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
-**Thoughts** 
+**Thoughts** Started to add JavaScript and create the grid, making adjustments to CSS. Right now its set at 16 x 16 with mouseover to paint feature
 
 **Link(s) to work**
-1. [](url)
+1. [Github](https://github.com/jasminepvo/etch-a-sketch)
 
 ### Day 10: June 7, Tuesday
 
-**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate HTML Concepts - Lesson 1: Introduction, Lesson 2: Emmet, Lesson 3: Form Basics, Lesson 4: Form Validation, Lesson 5: SVG, Lesson 6: Tables
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 87%. Completing JavaScript Basics - Lesson 12: Etch-A-Sketch Project
 
-**Thoughts** 
+**Thoughts** Added other buttons to reset, erase, clear and rainbow
 
 **Link(s) to work**
-1. [](url)
-
+1. [Github](https://github.com/jasminepvo/etch-a-sketch)
 
 ### Day 11: June 8, Wednesday
 
-**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate CSS Concepts - Lesson 1: Default Styles, Lesson 2: CSS Units, Lesson 3: More Text Styles, Lesson 4: More CSS Properties, Lesson 5: Advanced Selectors, Lesson 6: Positioning, Lesson 7: CSS Functions, Lesson 8: Custom Properties, Lesson 9: Browser Compatibility, Lesson 10: Frameworks and Preprocessors, Lesson 11: Sign-up Form PROJECT
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 89%. Completed JavaScript Basics - Lesson 12: Etch-A-Sketch Project. Started JavaScript Basics - Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest)
 
-**Thoughts** 
+**Thoughts** FINALLY DONE! Used sliding label to change grid size and tweaked design. Pushed to Github. 
 
 **Link(s) to work**
-1. [](url)
+1. [Playable Version](https://jasminepvo.github.io/etch-a-sketch/)
+LIVE DEMO: https://user-images.githubusercontent.com/99847030/172734382-aa8edb86-64ee-4860-8d97-fda2a3e7c8d0.mov
 
 ### Day 12: June 9, Thursday
 
-**Today's Progress**: [The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Grid - Lesson 1: Introduction to Grid, Lesson 2: Creating a Gris, Lesson 3: Positioning Grid Elements, Lesson 4: Advanced Grid Properties, Lesson 5: Using Flexbox and Grid, Lesson 6: Admin Dashboard PROJECT
+**Today's Progress**: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) at 91%. Completed JavaScript Basics - Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest), Lesson 14: Calculator Project 
 
 **Thoughts** 
 
 **Link(s) to work**
-1. [](url)
+1. [Twitter](https://twitter.com/jasminepvodev/status/1535442289174233095)
+
+
+
+
+
+
+
+TO WORK ON: 
+JavaScript Basics - Lesson 13: Fundamentals Pt. 5(Practice Exercises: calculator, palindromes, fibonacci, getTheTitles, findTheOldest), Lesson 14: Calculator Project 
+The Back End - Lesson 1: Introduction to the Back End, Lesson 2: Introduction to Frameworks, Conclusion - Lesson 1: Choose Your Path Forward
+
+[The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate HTML Concepts - Lesson 1: Introduction, Lesson 2: Emmet, Lesson 3: Form Basics, Lesson 4: Form Validation, Lesson 5: SVG, Lesson 6: Tables
+
+[The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Intermediate CSS Concepts - Lesson 1: Default Styles, Lesson 2: CSS Units, Lesson 3: More Text Styles, Lesson 4: More CSS Properties, Lesson 5: Advanced Selectors, Lesson 6: Positioning, Lesson 7: CSS Functions, Lesson 8: Custom Properties, Lesson 9: Browser Compatibility, Lesson 10: Frameworks and Preprocessors, Lesson 11: Sign-up Form PROJECT
+
+[The Odin Project Full Stack JavaScript - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) at %. Completed Grid - Lesson 1: Introduction to Grid, Lesson 2: Creating a Grid, Lesson 3: Positioning Grid Elements, Lesson 4: Advanced Grid Properties, Lesson 5: Using Flexbox and Grid, Lesson 6: Admin Dashboard PROJECT
+
+
+
 
 ### Day 13: June 10, Friday
 
